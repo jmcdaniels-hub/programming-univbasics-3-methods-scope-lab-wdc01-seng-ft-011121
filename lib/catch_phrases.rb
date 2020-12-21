@@ -9,8 +9,8 @@ end
 
 
 def toadstool
-  puts status
-  status
+  puts "#{status}""
+  
 end
 
 def link
